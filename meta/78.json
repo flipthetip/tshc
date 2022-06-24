@@ -3,7 +3,7 @@
     "symbol": "TSHC",
     "description": "Web3 Chibis in the Solana network. 3,333 chibified avatars ready to take on the metaverse and save the decentralization movement. The Shady Class is the OG NFT Collection under under W3B Industries.",
     "seller_fee_basis_points": 750,
-    "image": "/78.png",
+    "image": "https://raw.githubusercontent.com/flipthetip/forleiulit/main/images/78.png",
     "external_url": "",
     "collection": {
         "name": "The Shady Class",
